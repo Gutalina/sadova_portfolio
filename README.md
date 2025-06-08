@@ -1,9 +1,7 @@
-# Anastasiia Sadova – Data Science Portfolio
-
 Barcelona, Spain  
-sadovafoto@gmail.com  
-GitHub: https://github.com/Gutalina  
-LinkedIn: https://www.linkedin.com/in/anastasiia-sadova-2422178
+GitHub: [github.com/Gutalina](https://github.com/Gutalina)  
+LinkedIn: [linkedin.com/in/anastasiia-sadova](https://www.linkedin.com/in/anastasiia-sadova-2422178)  
+Email: [sadovafoto@gmail.com](mailto:sadovafoto@gmail.com)
 
 ---
 
@@ -40,7 +38,7 @@ Segmented customers using RFM features and K-Means. Built recommendation models:
 Performed statistical analysis on traffic accident data in Barcelona. Compared accident frequency and severity across neighborhoods using hypothesis testing and confidence intervals.
 
 ### Airbnb Rental Market Analysis  
-Explored trends in pricing and illegal listings using public Airbnb data. Combined SQL, Pandas, and Tableau to present the influence of tourism and neighborhood-specific risks.
+Explored trends in pricing and illegal listings using public Airbnb data. Combined SQL, Pandas, and Plotly express to present the influence of tourism and neighborhood-specific risks.
 
 ---
 
